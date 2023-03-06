@@ -2,3 +2,4 @@
 
 Collaborators: 
 - Amar Fazlic
+- Amina Hamzic
